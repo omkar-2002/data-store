@@ -1,0 +1,530 @@
+[
+    {
+        "id":0,
+        "eventName":"It's Debatable",
+        "cellName":"CPDC",
+        "tagLine":"Listen. Think. Speak.",
+        "eventHeads":[
+            {
+                "name":"Unnati Bhalekar",
+                "phoneNumber":8625096018
+            },
+            {
+                "name":"Kartik Sangaonkar",
+                "phoneNumber":9112198448
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Harshada Mhaske",
+        "description":"It's Debatable is an elegant, modern form of debate which involves a team of students working to effectively convince a judge that their side of a resolution is more valid. So here we are with an event to give you a chance to show your strong and effective communication skills. To participate in this event a team of 2 members (compulsory) and ability to assert dominance with facts is required.",
+        "entryFees":{
+            "nonCesa":50
+        },
+        "prizes":[1200,800],
+        "platform":"Google Meet",
+        "rules":[
+            "No. of rounds:2 -per day 1 round",
+            "No. of hours and days required:2 days and per day 2-3 hours",
+            "There will be two teams, each consisting of two speakers. ",
+            "The first speaker for the affirmative side begins. Then, the first speaker for the negative side responds. In this way, the speakers for both sides speak in turn.",
+            "Each speaker has a maximum time of one minute. The judge will check the time carefully. He/ she gives a sign when the speaker has 10 seconds to go, and after speaking time is over, the speaker may finish his/her sentence and must then stop. Spare time may not be transferred to another speaker.Interrupting a speaker is forbidden.",
+            "Controversial topics should be avoided ",
+            "Speakers are accepted to use appropriate language. On use of inappropriate language the judges have the authority to disqualify the team",
+            "There will be a time limit of 7 mins for each topic so one of the team must conclude so as to complete the debate in the given time limit.",
+            "The audience must not participate in the debate.",
+            "After the debate, the audience has 3 minutes to share their impressions and opinions in which they can ask questions which are related to any of the members of the teams.",
+            "The witness must answer the questions from the audience without consulting his/her members.",
+            "The judge will base his/her decision entirely on the material presented, without regard for other material which he may happen to possess and declare the result."
+
+        ]
+    },
+    {
+        "id":1,
+        "eventName":"Codigo",
+        "cellName":"Coding Cell",
+        "tagLine":"Write Code’s that computer can digest",
+        "eventHeads":[
+            {
+                "name":"Vinit Hande",
+                "phoneNumber":7448050960
+            },
+            {
+                "name":"Yash Morankar",
+                "phoneNumber":9403399281
+            },
+            {
+                "name":"Rohan Nagapure",
+                "phoneNumber":8149556866
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Ganesh Deshmukh",
+        "description":"Team type(Solo/Group): Solo Group size (if any): - There will be two Rounds in this Event: Round 1: Speed and Accuracy test Questions: 8 questions may vary) Time: 1:30hr Round 2: Challenge yourself Questions: 6 questions (may vary) Time: 1:30 hr.",
+        "entryFees":{
+            "nonCesa":100,
+            "cesa":30
+        },
+        "prizes":[3000,1500,1000],
+        "platform":"Hackerrank",
+        "rules":[
+            "Ranks will be decided from hackerrank leaderboard and after plagiarism checking.",
+            "Top 50% (may vary) from hackerrank leaderboard will be qualified for round 2.",
+            
+            "Contest will be held on Hackerrank.",
+            "Plagiarism detectors will detect solutions, if found similar codes or copied from other sites",
+            "This is a two day event.",
+            "We will provide you with a contest link on registered email 2 days prior to contest.",
+            "Last decision will be made by the event organizers."
+
+        ]
+    },
+    {
+        "id":2,
+        "eventName":"Brain Apti",
+        "cellName":"Higher Education cell",
+        "tagLine":"Test your Aptitude skills with us!!",
+        "eventHeads":[
+            {
+                "name":"Sakshi Kshirsagar",
+                "phoneNumber":9552015922
+            },
+            {
+                "name":"Harshal Rajput",
+                "phoneNumber":7744805522
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Kapil Tajane",
+        "description":"No. of rounds: 3 (if no. of participents are less , no. of rounds will be 2 ) No. of hours and days required: -1 Day - Each round of 15mins",
+        "entryFees":{
+            "nonCesa":50,
+            "cesa":30
+        },
+        "prizes":[2000,1000],
+        "platform":"Google Forms",
+        "rules":[            
+            "Participants must follow given timing , as the rounds will start sharp on time."
+        ]
+    },
+    {
+        "id":3,
+        "eventName":"Chess Tournament",
+        "cellName":"Sports cell",
+        "tagLine":"When you see a good move, look for a better one.",
+        "eventHeads":[
+            {
+                "name":"Sujeet jawale",
+                "phoneNumber":8669058866
+            },
+            {
+                "name":"Nachiket Mahamuni",
+                "phoneNumber":9422965491
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Anand Birajdar",
+        "description":"Team type(Solo/Group): Solo Group size (if any):None",
+        "entryFees":{
+            "nonCesa":40,
+            "cesa":30
+        },
+        "prizes":[1000,500,100],
+        "platform":"Lichess",
+        "rules":[            
+            "Participants must follow given timing , as the rounds will start sharp on time."
+        ]
+    },
+    {
+        "id":4,
+        "eventName":"Valorant Tournament",
+        "cellName":"Sports cell",
+        "tagLine":"Sink into the world of games.",
+        "eventHeads":[
+            {
+                "name":"Sujeet jawale",
+                "phoneNumber":8669058866
+            },
+            {
+                "name":"Nachiket Mahamuni",
+                "phoneNumber":9422965491
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Rajesh Lomte",
+        "description":"Team type(Solo/Group): Group Group size (if any): 5",
+        "entryFees":{
+            "nonCesa":250
+        },
+        "prizes":[1200,800],
+        "platform":"Valorant game",
+        "rules":[            
+            "No. of rounds: 1 Group vs 1 group, Knockout matches",
+            "No. of hours and days required: 45 minutes for one match",
+            "The mode of the tournament will be in the form of STANDARD.",
+            "Each team will get at least 1 or maybe more matches depending on the number of   participant teams.",
+            "Details regarding maps won’t be displayed earlier, it will be a random choice.",
+            "It will be 5 Vs 5 format i.e each team will consist of 5 players.",
+            "Any technical issues from the participant side will not be entertained.",
+            "Participants have to ensure proper internet connection from their side.",
+            "Rematch will be held only if the difficulty is from the organizers side."
+        ]
+    },
+    {
+        "id":5,
+        "eventName":"Call of Duty (COD) Mobile Tournament",
+        "cellName":"Sports cell",
+        "tagLine":"Our gear is packed and ready to go",
+        "eventHeads":[
+            {
+                "name":"Sujeet jawale",
+                "phoneNumber":8669058866
+            },
+            {
+                "name":"Nachiket Mahamuni",
+                "phoneNumber":9422965491
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Rajesh Lomte",
+        "description":"Team type(Solo/Group): Group Group size (if any): 4",
+        "entryFees":{
+            "nonCesa":160
+        },
+        "prizes":[1000,800],
+        "platform":"COD mobile app",
+        "rules":[            
+            "No. of rounds: 1 Group vs 1 group, Knockout matches",
+            "No. of hours and days required: 15-20 minutes for one match",
+            "The mode of the tournament will be in the form of STANDARD.",
+            "Each team will get at least 1 or maybe more matches depending on the number of   participant teams.",
+            "Details regarding maps won’t be displayed earlier, it will be a random choice.",
+            "It will be 4 Vs 4 format i.e each team will consist of 4 players.",
+            "Any technical issues from the participant side will not be entertained.",
+            "Participants have to ensure proper internet connection from their side.",
+            "Rematch will be held only if the difficulty is from the organizers side."
+        ]
+    },
+    {
+        "id":6,
+        "eventName":"Super Cut Anantya",
+        "cellName":"Photography",
+        "tagLine":"Have video skills and no project?",
+        "eventHeads":[
+            {
+                "name":"Atharv Deshmukh",
+                "phoneNumber":9766088615
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Rajesh Lomte",
+        "description":"Team type(Solo/Group): Group Group size (if any): NA",
+        "entryFees":{
+            "nonCesa":30
+        },
+        "prizes":[1000,600],
+        "platform":"Videos Submission via Google Form",
+        "rules":[            
+            "No. of rounds: 1",
+            "No. of hours and days required: 3 Days",
+            "The two themes are Loneliness and Action. The participant has to choose one among the two.",
+            "The participant will be provided with music and footage(worth 20 minutes) on a Google Drive folder.",
+            "The final cut must be between 30 to 90 seconds.",
+            "Using audio or video from outside will lead to disqualification.",
+            "Upon confirmation of your registration, you will be added to a WhatsApp group where you will receive updates and a link to upload your final cut."
+            
+        ]
+    },
+    {
+        "id":7,
+        "eventName":"Snapshot Redefined",
+        "cellName":"Photography",
+        "tagLine":"Use your cameras to click something other than assignments",
+        "eventHeads":[
+            {
+                "name":"Atharv Deshmukh",
+                "phoneNumber":9766088615
+            },
+            {
+                "name":"Aditya Rajpurohit",
+                "phoneNumber":9460406311
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Rajesh Lomte",
+        "description":"A delicious meal appeals to more of your senses than just smell and taste. It must also appeal to the eye. To encourage creativity and culinary excellence, the participants would have to arrange, garnish and style a dish. The theme is “Your take on Your Meal”. Jazz up your meal in your own unique way, be it the everyday staple or a 5 course menu, make it exciting, adorn it. To achieve a well-plated dish, you must pay attention to the details i.e. the colors, the textures and how everything comes together.",
+        "entryFees":{
+            "nonCesa":30
+        },
+        "prizes":[1000,600],
+        "platform":"Videos Submission via Google Form",
+        "rules":[            
+            "No. of rounds: 1",
+            "No. of hours and days required: 3 Days",
+            "The two themes are Loneliness and Action. The participant has to choose one among the two.",
+            "The participant will be provided with music and footage(worth 20 minutes) on a Google Drive folder.",
+            "The final cut must be between 30 to 90 seconds.",
+            "Using audio or video from outside will lead to disqualification.",
+            "Upon confirmation of your registration, you will be added to a WhatsApp group where you will receive updates and a link to upload your final cut."
+            
+        ]
+    },
+    {
+        "id":8,
+        "eventName":"Express an Emotion",
+        "cellName":"Photography",
+        "tagLine":"Feel the beauty of art !",
+        "eventHeads":[
+            {
+                "name":" Roshani Memane",
+                "phoneNumber":9619259172
+            },
+            {
+                "name":"Sphurti Pargaonkar",
+                "phoneNumber":8660767271
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Rajesh Lomte",
+        "description":"Participants will have to choose one emotion from the list below. And try to portray the emotion through any of the art forms or performing art. One can use skills like dancing, singing, acting, painting, photography, sketching or something that justifies the emotion. Submit video or photo accordingly. Emotions : Love, Fear, Happiness, Admiration, Excitement, Courage.Team type(Solo/Group): Solo Group size (if any): NA",
+        "entryFees":{
+            "nonCesa":30,
+            "cesa":40
+        },
+        "prizes":[700,500,300],
+        "platform":"Google drive link (Submissions)",
+        "rules":[            
+            "No. of rounds: 1",
+            "No. of hours and days required: Announcement of event to 7th of march 5pm for submission (Not a live event)",
+            "Choose only one emotion.",
+            "Submission link will be provided on event day.",
+            "The video of performing art should not take more than 2 min.",
+            "In case we found copyright from some resource, those students will be disqualified.",
+            "Judging Criteria: The ability to convey the selected emotion appropriately through the art form"
+            
+        ]
+    },
+    {
+        "id":9,
+        "eventName":"Hackathon in association with IET",
+        "cellName":"Webmasters",
+        "tagLine":"Think -> Code -> Invent",
+        "eventHeads":[
+            {
+                "name":"Jayesh Shelar",
+                "phoneNumber":7276189895
+            },
+            {
+                "name":"Tejas Morkar",
+                "phoneNumber":8421631063
+            },
+            {
+                "name":"Suyash Sonawane",
+                "phoneNumber":7719914620
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Smita Khairnar",
+        "description":"Hackathon is the technical event wherein participants have to implement their innovative ideas and develop their projects within stipulated time. This event is designed exclusively for all the students who want to showcase their amazing ideas and projects. The project must be based on any Computer Science relevant technologies.(eg. Web App , Android App , Graphics Project , IoT , ML models, etc). There will be two rounds. In the first round participants have to submit their idea with a project report or presentation. In the final round selected teams will have to implement their ideas in a given amount of time followed by a final presentation. Evaluation will also be done in specified time intervals similar to normal offline hackathons. Team type(Solo/Group): Group Group size (if any): max 4",
+        "entryFees":{
+            "nonCesa":0
+        },
+        "prizes":[3000,2000,1000],
+        "platform":"Discord",
+        "rules":[            
+            "No. of rounds: 2",
+            "Judging Criteria: Evaluation Rounds conducted during online hackathon",
+            "Deadlines should be followed strictly.",
+            "Standard Report Format provided should be strictly followed.",
+            "All the intermediate evaluation processes during 24 hrs Online ","Hackathon should be followed.",
+            "All the group members should be present during the final online presentation.",
+            "The results and winners identified by judges will be final and non-negotiable under any conditions."
+
+            
+        ]
+    },
+    {
+        "id":10,
+        "eventName":"Perplexo",
+        "cellName":"Webmasters",
+        "tagLine":"Perplexical Labyrinth ",
+        "eventHeads":[
+            {
+                "name":"Jayesh Shelar",
+                "phoneNumber":7276189895
+            },
+            {
+                "name":"Suyash Sonawane",
+                "phoneNumber":7719914620
+            },
+            {
+                "name":"Tejas Morkar",
+                "phoneNumber":8421631063
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Ganesh Deshmukh",
+        "description":"NA",
+        "entryFees":{
+            "nonCesa":60,
+            "cesa":30
+        },
+        "prizes":[1500,1000,500],
+        "platform":"Perplexo",
+        "rules":[            
+            "No. of rounds: 2"            
+        ]
+    },
+    {
+        "id":11,
+        "eventName":"Retracer",
+        "cellName":"ACM-W Student Chapter",
+        "tagLine":"Retrace It",
+        "eventHeads":[
+            {
+                "name":"Shreyas Dungarwal",
+                "phoneNumber":9423546302
+            },
+            {
+                "name":"Karthi Dhanasekaran",
+                "phoneNumber":9970972341
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Shailaja Pede",
+        "description":"NA",
+        "entryFees":{
+            "nonCesa":50,
+            "cesa":30
+        },
+        "prizes":[1500,1000],
+        "platform":"Google Form",
+        "rules":[            
+            "No. of rounds: 2",
+            "No. of hours and days required: 2 hours, 1 day",
+            "Judging Criteria: Evaluation based on the solution submitted by the participant.",
+           "Participants will be gathered in a meet and will be informed about the platform and also demo would be provided. ",
+            "Round 1 will consist of 5 questions consisting of 5 codes. Participants have to guess the problem statement according to the given code and have to mention what the output 0 and 1 indicates.",
+            "Eg. 0 means even and 1 means odd",
+            "Round 2: There would be two types of questions: ",
+            "Type 1:Fix the code, that is debug it",
+            "Type 2: Find the missing lines.",
+            "Total questions would be 5.",
+            "Marks would be given only if the code has been properly fixed that is running properly, else zero marks would be given."
+
+        ]
+    },
+    {
+        "id":12,
+        "eventName":"Bamboozled",
+        "cellName":"ACM-W Student Chapter",
+        "tagLine":"Witty brains at work",
+        "eventHeads":[
+            {
+                "name":"Shravani Ahirrao",
+                "phoneNumber":9284035516
+            },
+            {
+                "name":"Jhanvi Pimplikar",
+                "phoneNumber":7028925097
+            },
+            {
+                "name":"Sahil Adrakatti",
+                "phoneNumber":9834836808
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Shailaja Pede",
+        "description":"Team type(Solo/Group): Solo Group size (if any): NA",
+        "entryFees":{
+            "nonCesa":50,
+            "cesa":30
+        },
+        "prizes":[1000,700,500],
+        "platform":"Google Form",
+        "rules":[            
+            "No. of rounds: 3",
+            "No. of hours and days required: 3 hours, 1 day",
+            "It will be a solo game.",
+            "(You will be playing for Yourself, and the prizes will be sent to you alone, no need to share your prize anymore)",
+            
+            "Platforms which will be used are Kahoot and Google Meet.",
+
+            "It is desirable to maintain a good Internet connection.",
+
+            "Cheating and manipulation will not be entertained.",
+
+            "It would be great if you have two devices (not a compulsion).",
+
+            "Kahoot nickname format : Firstname Lastname (it will make it easier for us to send prizes to the actual winners, so in order to protect yourself from any misplacement of your prizes, we recommend you to use your names in above given format) "
+
+        ]
+    },
+    {
+        "id":13,
+        "eventName":"Reel-istic Spree",
+        "cellName":"SE Event",
+        "tagLine":"Binge too much? Reel knowledge just got real with this fun movie quiz!",
+        "eventHeads":[
+            {
+                "name":"Suraj Dhamak",
+                "phoneNumber":7028133292 
+            },
+            {
+                "name":"Saumya Phadkar",
+                "phoneNumber":9881724240
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof. Shailaja Pede",
+        "description":"“Reel-istic Spree” is a quiz competition completely based on movies and webseries  Team type(Solo/Group): Solo Group size (if any): NA",
+        "entryFees":{
+            "nonCesa":25,
+            "cesa":15
+        },
+        "prizes":[800,400],
+        "platform":"Kahoot and Discord",
+        "rules":[            
+            "No. of rounds: 3",
+            "No. of hours and days required: 1 hours, 3 day",
+            "Judging Criteria: Kahoot ranks after each round.",
+           "Round 1 : Questions will be tricky, name if movie or series to be guessed.",
+            "Round 2 : Questions will be in the form of memes or emojis.",
+            "Round 3 : A silent video will be played for each question. The name of the movie/series, the scene and dialogue is to be guessed.",
+            "Decisions made by organizers will be final."
+
+
+        ]
+    },
+    {
+        "id":14,
+        "eventName":"Innovation quest <CSI and PDC>",
+        "cellName":"CSI and PDC",
+        "tagLine":" Strategy and ideas is about stretching limited resources to fit ambitious aspirations",
+        "eventHeads":[
+            {
+                "name":"Atharv Deshmukh",
+                "phoneNumber":9766088615 
+            },
+            {
+                "name":"Tanishka Badhe",
+                "phoneNumber":7888037795
+            },
+            {
+                "name":"Sherwin Keti",
+                "phoneNumber":7981450936
+            }
+        ],
+        "poster":"https://via.placeholder.com/589",
+        "facultyHead":"Prof Atul Pawar",
+        "description":"Team type(Solo/Group): Solo Group size (if any): 4",
+        "entryFees":{
+            "nonCesa":70
+        },
+        "prizes":[2000,1500],
+        "platform":"Slides submission through Google Form, Review will be taken on Google Meet",
+        "rules":[            
+            "No. of rounds: 2",
+            "No. of hours and days required: 3-4 days",
+           ]
+    }
+]
