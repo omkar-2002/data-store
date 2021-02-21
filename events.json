@@ -59,17 +59,19 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Codigo%20-%20Website.png",
         "facultyHead":"Prof. Ganesh Deshmukh",
-        "description":"Team type(Solo/Group): Solo Group size (if any): - There will be two Rounds in this Event: Round 1: Speed and Accuracy test Questions: 8 questions may vary) Time: 1:30hr Round 2: Challenge yourself Questions: 6 questions (may vary) Time: 1:30 hr.",
+        "description":"Codigo is a technical event wherein the participants have to write programs/codes as solutions for the problem statements provided to them within the time provided.There is no restriction of any programming language. It is a solo event where the participants will be tested on their competitive programming skills,ability to understand problem statements and give the appropriate solution which should be able to qualify test cases provided. Students through this event will be able to understand their problem solving abilities in programming and will be able to improve their effective thinking capacity.",
         "entryFees":{
-            "nonCesa":100,
+            "nonCesa":50,
             "cesa":30
         },
         "prizes":[3000,1500,1000],
         "platform":"Hackerrank",
         "rules":[
+            "Platform: Hackerrank",
+            "Round 1: Fastest coder First Questions: 9 questions with easy logical questions (may vary) Time: 1:30hr",
+            "Round 2: Challenge yourself Questions: 6 questions with all types of difficulties (may vary) Time: 1:30 hr.",
             "Ranks will be decided from hackerrank leaderboard and after plagiarism checking.",
-            "Top 50% (may vary) from hackerrank leaderboard will be qualified for round 2.",
-            
+            "Top 50% (may vary) from hackerrank leaderboard will be qualified for round 2.",            
             "Contest will be held on Hackerrank.",
             "Plagiarism detectors will detect solutions, if found similar codes or copied from other sites",
             "This is a two day event.",
@@ -123,15 +125,26 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Chess%20-%20Website.png",
         "facultyHead":"Prof. Anand Birajdar",
-        "description":"Team type(Solo/Group): Solo Group size (if any):None",
+        "description":"The Chess Tournamate will be open to all the students and faculty from all engineering colleges.",
         "entryFees":{
             "nonCesa":40,
             "cesa":30
         },
         "prizes":[1000,500,100],
         "platform":"Lichess",
-        "rules":[            
-            "Participants must follow given timing , as the rounds will start sharp on time."
+        "rules":[
+            "Day 1 - Swiss Tournament of 5 rounds (5 min + 3 sec Increment)",
+            "Day 2 - Single elimination for top 16 from the previous day (10 min + 0 sec Increment)",
+            "Day 3 - Semifinals and Finals match + Bronze match (15 min + 10 sec Increment)", 
+            "Participants will have to join the Anantya21 team on Lichess for the Day 1 tournament. Link - https://lichess.org/team/anantya21.",
+            "Link and password for joining the Day 1 Swiss Tournament will be provided to the registered participants via email. DO NOT share this information with anyone.",
+            "Top 16 from Day 1 Swiss tournament will be selected for the knockouts.",
+            "Organizers have the rights to disqualify players suspected of breaching the fair play policy of Lichess.org.",
+            "Seeding for the Day 2 brackets will be based on the rankings of Day 1. ",
+            "Knockouts from day 2 will be in a format of ‘Best of 3’. Tie breaks will be done by an armageddon game where white will have 5 minutes and black will have 4 minutes. Black will be eliminated if white wins the game and white will be eliminated if black wins the game or even if it ends in a tie.",
+            "Participants will have to play from a Desktop/ Laptop or any other device which will enable you to share your video and screen at the same time on discord. It is compulsory for all participants in the knockouts.",
+            "It is players’ responsibility to be available for the matches on specified times."
+
         ]
     },
     {
@@ -195,8 +208,8 @@
         "rules":[            
             "No. of rounds: 1 Group vs 1 group, Knockout matches",
             "No. of hours and days required: 15-20 minutes for one match",
-            "The mode of the tournament will be in the form of STANDARD.",
-            "Each team will get at least 1 or maybe more matches depending on the number of   participant teams.",
+            "The mode of the tournament will be in the form of team death matches.",
+            "Each team will get at least 1 or maybe more matches depending on the number of participant teams",
             "Details regarding maps won’t be displayed earlier, it will be a random choice.",
             "It will be 4 Vs 4 format i.e each team will consist of 4 players.",
             "Any technical issues from the participant side will not be entertained.",
@@ -337,9 +350,7 @@
             "Standard Report Format provided should be strictly followed.",
             "All the intermediate evaluation processes during 24 hrs Online ","Hackathon should be followed.",
             "All the group members should be present during the final online presentation.",
-            "The results and winners identified by judges will be final and non-negotiable under any conditions."
-
-            
+            "The results and winners identified by judges will be final and non-negotiable under any conditions."            
         ]
     },
     {
@@ -391,7 +402,7 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Retracer%20-%20Website.png",
         "facultyHead":"Prof. Shailaja Pede",
-        "description":"NA",
+        "description":"In the first round, the participants will be given a code, and they have to find out the problem statement of that code by analyzing and observing it, so basically, they will have to retrace back to the problem statement of the code given to them. The second round will be a little challenging in which the participants will have to find out the errors/ missing lines etc. in the given piece of code.",
         "entryFees":{
             "nonCesa":50,
             "cesa":30
@@ -486,6 +497,7 @@
         "rules":[            
             "No. of rounds: 3",
             "No. of hours and days required: 1 hours, 3 day",
+            "1st round : 45 minutes 2nd Round : 45 minutes 3rd round : 90 minutes",
             "Judging Criteria: Kahoot ranks after each round.",
            "Round 1 : Questions will be tricky, name if movie or series to be guessed.",
             "Round 2 : Questions will be in the form of memes or emojis.",
@@ -516,7 +528,7 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/CSI%20Innovation%20quest%20%252F%20mini%20project%20presentaion%20-%20Website.png",
         "facultyHead":"Prof Atul Pawar",
-        "description":"Team type(Solo/Group): Solo Group size (if any): 4",
+        "description":"The event would be conducted on gMeet. The maximum group size of the event will be 4 and the minimum is 2, and it’s open for other college students as well. Students will be required to prepare a PPT and to submit their ideas. After reviewing the softcopies, the shortlisted candidates will have to explain their ideas in a time duration of 3-5 mins. Accordingly, the first two winners will receive the prizes.",
         "entryFees":{
             "nonCesa":70
         },
@@ -524,7 +536,17 @@
         "platform":"Slides submission through Google Form, Review will be taken on Google Meet",
         "rules":[            
             "No. of rounds: 2",
-            "No. of hours and days required: 3-4 days"
+            "No. of hours and days required: 3-4 days",
+            "Slides submission through Google Form, Review will be taken on Google Meet",
+            "Only SE computer students and other colleges of SE computer students",
+             "Maximum group length is 4 students",
+             "Project ideas expressed through softcopy like PPT, PDF",
+             "Project idea time duration: 5-10 min for each group",
+             "Fees for each group is Rs. 100",
+             "All the registered groups will have to submit their softcopies, then the shortlisted groups will have to give presentation in front of the judges.",
+            "Judging Criteria :     1) Confidence and way of explaining points 2) Idea feasibility and scope 3) Uniqueness of idea 4) Overall content of PPT ( Theme used for designing the PPT, decoration, short and crisp content of the idea ) ","(You will be playing for Yourself, and the prizes will be sent to you alone, no need to share your prize anymore)",
+            "Format of the PPTs: Slide-1: College name and logo, department name, Project Title, Students name with Roll No.  Slide-2: Motivation of Project Slide-3: Objectives of Project Slide-4: Idea Description ( Can add images and citations if needed ) Slide-5 : Thank you "
+
            ]
     }
 ]
