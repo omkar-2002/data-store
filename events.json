@@ -371,7 +371,8 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Perplexo%20-%20Website.png",
         "facultyHead":"Prof. Ganesh Deshmukh",
-        "description":"NA",
+        "description":"Perplexo is an event where you get to test your knowledge in the wide domain of the Internet and Technology. It is an event  consisting of a series of questions, a trail of hints followed by a sequence of surprisingly tricking answers along with a live ranking leaderboard. We return again with greater difficulty, tougher ciphers and deeper trails. You have to be more attentive, cautious and aware than at any time you are. Push your limits, bend the rules and crack the code. Last year only a few were able to reach level 9, but none completed the challenge. Do you have what it takes to beat perplexo in its own game? Inspect things clearly to know more about us We have been watching you We are Perplexo We pick the best.",
+
         "entryFees":{
             "nonCesa":60,
             "cesa":30
@@ -379,7 +380,8 @@
         "prizes":[1500,1000,500],
         "platform":"Perplexo",
         "rules":[            
-            "No. of rounds: 2"            
+            "No. of rounds: 2" ,
+            "Group size : 2 max"           
         ]
     },
     {
