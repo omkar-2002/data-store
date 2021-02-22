@@ -226,6 +226,10 @@
             {
                 "name":"Atharv Deshmukh",
                 "phoneNumber":9766088615
+            },
+            {
+                "name":"Ashwin Manoj",
+                "phoneNumber":7264889950
             }
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Super%20Cut%20Anantya%20-%20Website.png",
@@ -260,6 +264,10 @@
             {
                 "name":"Aditya Rajpurohit",
                 "phoneNumber":9460406311
+            },
+            {
+                "name":"Omkar Bansode",
+                "phoneNumber":9130348997
             }
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Still%20Life%20Photography%20-%20Website.png",
@@ -268,7 +276,8 @@
         "entryFees":{
             "nonCesa":30
         },
-        "prizes":[1000,600],
+        "prizes":[600,400],
+        "prizes1":[400,200],
         "platform":"Videos Submission via Google Form",
         "rules":[           
             "There are two categories under Snapshot redefined : Theme based photography and Dish Décor. Entries, Prizes, judgement criteria will be separate for both categories. <br> Participants are allowed to send entries for both of the categories.A form link will be shared with you via mail for submission.",
@@ -297,14 +306,13 @@
         "facultyHead":"Prof. Rajesh Lomte",
         "description":"Participants will have to choose one emotion from the list below. And try to portray the emotion through any of the art forms or performing art. One can use skills like dancing, singing, acting, painting, photography, sketching or something that justifies the emotion. Submit video or photo accordingly. Emotions : Love, Fear, Happiness, Admiration, Excitement, Courage.Team type(Solo/Group): Solo Group size (if any): NA",
         "entryFees":{
-            "nonCesa":30,
+            "nonCesa":40,
             "cesa":40
         },
         "prizes":[700,500,300],
         "platform":"Google drive link (Submissions)",
         "rules":[            
             "No. of rounds: 1",
-            "No. of hours and days required: Announcement of event to 7th of march 5pm for submission (Not a live event)",
             "Choose only one emotion.",
             "Submission link will be provided on event day.",
             "The video of performing art should not take more than 2 min.",
@@ -409,18 +417,14 @@
         "prizes":[1500,1000],
         "platform":"Google Form",
         "rules":[            
-            "No. of rounds: 2",
-            "No. of hours and days required: 2 hours, 1 day",
-            "Judging Criteria: Evaluation based on the solution submitted by the participant.",
-           "Participants will be gathered in a meet and will be informed about the platform and also demo would be provided. ",
-            "Round 1 will consist of 5 questions consisting of 5 codes. Participants have to guess the problem statement according to the given code and have to mention what the output 0 and 1 indicates.",
-            "Eg. 0 means even and 1 means odd",
-            "Round 2: There would be two types of questions: ",
-            "Type 1:Fix the code, that is debug it",
-            "Type 2: Find the missing lines.",
+            "Participants will be gathered in a meet and will be informed about the platform and also demo would be provided. ",
+            "Round 1 will consist of 5 questions consisting of 5 codes. Participants have to guess the problem statement according to the given code and have to mention what the output 0 and 1 indicates. Eg. 0 means even and 1 means odd",
+            "Round 2: There would be two types of questions: <br> Type 1:Fix the code, that is debug it <br> Type 2: Find the missing lines.",
             "Total questions would be 5.",
-            "Marks would be given only if the code has been properly fixed that is running properly, else zero marks would be given."
-
+            "Marks would be given only if the code has been properly fixed that is running properly, else zero marks would be given.",
+            "Judging Criteria: Evaluation based on the solution submitted by the participant.",
+            "Tab/ Window switching is strictly forbidden."
+            
         ]
     },
     {
@@ -444,16 +448,15 @@
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Bamboozled%20-%20Website.png",
         "facultyHead":"Prof. Shailaja Pede",
-        "description":"Team type(Solo/Group): Solo Group size (if any): NA",
+        "description":"Do you love quizzes and fun word-games? Would you love to test out your knowledge-pedia? Then this is the place for you! The Bamboozled team has brought together 3 rounds of entertaining quizzes consisting of interesting trivia questions, a quick word racer, and an ultimate rapid fire round.",
         "entryFees":{
             "nonCesa":50,
             "cesa":30
         },
         "prizes":[1000,700,500],
         "platform":"Google Form",
-        "rules":[            
-            "No. of rounds: 3",
-            "No. of hours and days required: 3 hours, 1 day",
+        "rules":[
+         "Round 1: Timed Quiz of 10 questions (Platform: Kahoot and GMeet) The participants will log on to Kahoot.it and ente the provided pin to play the game. The round will consist of multiple choice general knowledge questions from all categories. <br> Round 2: (Platform: Houseparty and GMeet) The participants will have to download the Houseparty app on their phones or play online on the laptop.  The round will consist of alphabetical letters and the participants will have to make the maximum number of possible words in order to score more points. <br> Round 3: Rapid Fire (Platform: GMeet) The participants will have to answer as many questions as possible within the stipulated time of 1 minute. No options will be provided in this round. The results will be calculated by the monitoring team.",
             "It will be a solo game.",
             "(You will be playing for Yourself, and the prizes will be sent to you alone, no need to share your prize anymore)",
             
