@@ -416,15 +416,14 @@
         },
         "prizes":[1500,1000],
         "platform":"Google Form",
-        "rules":[            
+        "rules":[       
+            "Event is strictly solo",     
             "Participants will be gathered in a meet and will be informed about the platform and also demo would be provided. ",
-            "Round 1 will consist of 5 questions consisting of 5 codes. Participants have to guess the problem statement according to the given code and have to mention what the output 0 and 1 indicates. Eg. 0 means even and 1 means odd",
+            "Round 1 consists of some questions. Participants have to guess the problem statement according to the given code and have to mention what the output 0 and 1 indicates. Eg. 0 means even and 1 means odd",
             "Round 2: There would be two types of questions: <br> Type 1:Fix the code, that is debug it <br> Type 2: Find the missing lines.",
-            "Total questions would be 5.",
             "Marks would be given only if the code has been properly fixed that is running properly, else zero marks would be given.",
             "Judging Criteria: Evaluation based on the solution submitted by the participant.",
-            "Tab/ Window switching is strictly forbidden."
-            
+            "Tab/ Window switching is strictly forbidden."            
         ]
     },
     {
