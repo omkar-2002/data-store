@@ -325,20 +325,16 @@
     {
         "id":9,
         "eventName":"Hackathon in association with IET",
-        "cellName":"Webmasters",
+        "cellName":"IET",
         "tagLine":"Think -> Code -> Invent",
         "eventHeads":[
             {
-                "name":"Jayesh Shelar",
-                "phoneNumber":7276189895
+                "name":"Parth Shrivastava",
+                "phoneNumber":7588818343
             },
             {
-                "name":"Tejas Morkar",
-                "phoneNumber":8421631063
-            },
-            {
-                "name":"Suyash Sonawane",
-                "phoneNumber":7719914620
+                "name":"Akash Biyani",
+                "phoneNumber":9359109196
             }
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Hackathon%20-%20Website.png",
