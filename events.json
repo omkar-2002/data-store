@@ -325,16 +325,20 @@
     {
         "id":9,
         "eventName":"Hackathon in association with IET",
-        "cellName":"IET",
+        "cellName":"Webmasters",
         "tagLine":"Think -> Code -> Invent",
         "eventHeads":[
             {
-                "name":"Parth Shrivastava",
-                "phoneNumber":7588818343
+                "name":"Jayesh Shelar",
+                "phoneNumber":7276189895
             },
             {
-                "name":"Akash Biyani",
-                "phoneNumber":9359109196
+                "name":"Tejas Morkar",
+                "phoneNumber":8421631063
+            },
+            {
+                "name":"Suyash Sonawane",
+                "phoneNumber":7719914620
             }
         ],
         "poster":"https://raw.githubusercontent.com/pccoeacm/data-store/main/posters/Hackathon%20-%20Website.png",
@@ -452,7 +456,7 @@
         "prizes":[1000,700,500],
         "platform":"Google Form",
         "rules":[
-         "Round 1: Timed Quiz of 10 questions (Platform: Kahoot and GMeet) The participants will log on to Kahoot.it and ente the provided pin to play the game. The round will consist of multiple choice general knowledge questions from all categories. <br> Round 2: (Platform: Houseparty and GMeet) The participants will have to download the Houseparty app on their phones or play online on the laptop.  The round will consist of alphabetical letters and the participants will have to make the maximum number of possible words in order to score more points. <br> Round 3: Rapid Fire (Platform: GMeet) The participants will have to answer as many questions as possible within the stipulated time of 1 minute. No options will be provided in this round. The results will be calculated by the monitoring team.",
+         "Round 1: Timed Quiz of 10 questions (Platform: Kahoot and GMeet) The participants will log on to Kahoot.it and ente the provided pin to play the game. The round will consist of multiple choice general knowledge questions from all categories. <br> Round 2: Surprise) The participants will have to download the Houseparty app on their phones or play online on the laptop.  The round will consist of alphabetical letters and the participants will have to make the maximum number of possible words in order to score more points. <br> Round 3: Rapid Fire (Platform: GMeet) The participants will have to answer as many questions as possible within the stipulated time of 1 minute. No options will be provided in this round. The results will be calculated by the monitoring team.",
             "It will be a solo game.",
             "(You will be playing for Yourself, and the prizes will be sent to you alone, no need to share your prize anymore)",
             
