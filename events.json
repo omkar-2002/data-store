@@ -134,7 +134,7 @@
         "prizes":[1000,500,100],
         "platform":"Lichess",
         "rules":[
-            "Day 1 - Swiss Tournament of 5 rounds (5 min + 3 sec Increment)",
+            "Day 1 - Swiss Tournament of 9 rounds (5 min + 3 sec Increment)",
             "Day 2 - Single elimination for top 16 from the previous day (10 min + 0 sec Increment)",
             "Day 3 - Semifinals and Finals match + Bronze match (15 min + 10 sec Increment)", 
             "Participants will have to join the Anantya21 team on Lichess for the Day 1 tournament. Link - https://lichess.org/team/anantya21.",
