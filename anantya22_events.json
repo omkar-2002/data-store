@@ -18,7 +18,7 @@
     ],
 
     "facultyHead": ["Prof.Shailesh Galande", "Prof. Harshada Mhaske"],
-    "description": "This event will test your speaking skills and will help in overcoming your stage fear.",
+    "description": "This event provides you with a chance to show off strong and effective communication skills and the ability to assert dominance with facts along with overcoming your stage fear.\n Round 1(Group Discussion): In a group, a topic will be provided. Every group will be given 3 minutes to discussion on the given topic. Participants will be selected for the next round based on judging criteria.\n Round 2(Debate): In a group of 2, a topic will be provided. One participant on the affirmative side and another participant on the negative side. Each team will be given a time of 2 minutes.",
     "entryFees": {
       "nonCesa": 50,
       "cesa": 30
@@ -26,7 +26,6 @@
     "prizes": [2000, 1500, 1000],
     "totalPrizes": 4500,
     "rules": [
-      "Detailed Rules can be viewed <a href=''>here</a>",
       "Number of rounds: 2",
       "Time required: 1.5 hr",
       "Participants must follow given timing, as the rounds will start sharp on time.",
@@ -98,7 +97,6 @@
     "prizes": [1200, 800, 500],
     "totalPrizes": 2500,
     "rules": [
-      "Detailed Rules can be viewed <a href=''>here</a>",
       "Number of rounds: 2",
       "Time required: 1 hr",
       "It is recommended to bring your own laptop, but it's NOT a compulsion",
