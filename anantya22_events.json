@@ -63,7 +63,7 @@
     "prizes": [2000, 1500, 800],
 
     "totalPrizes": 4300,
-    "rules": ["Detailed Rules can be viewed <a href=''>here</a>"]
+    "rules": [""]
   },
   {
     "id": 2,
