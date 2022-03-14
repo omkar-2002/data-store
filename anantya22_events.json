@@ -5,7 +5,7 @@
     "eventName": "Talking Titans",
     "cellName": "CPDC+ISR",
     "tagLine": "Know how you can persuade!",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/talking%20titans.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/Talking-Titans.png",
     "eventHeads": [
       {
         "name": "Rutuja Patil",
@@ -41,8 +41,8 @@
     "icon": "/assets/peprlexo.svg",
     "eventName": "Perplexo",
     "cellName": "Webmasters",
-    "tagLine": "Perplexical Labyrinth",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/perplexo.png?token=GHSAT0AAAAAABKHQTRPZAY5E7PVWTZOXCJ6YRYO4EA",
+    "tagLine": "A Perplexical Labyrinth",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Perplexo.png",
 
     "eventHeads": [
       {
@@ -63,7 +63,7 @@
     },
     "prizes": [2000, 1500, 800],
 
-    "totalPrizes": 4500,
+    "totalPrizes": 4300,
     "rules": ["Detailed Rules can be viewed <a href=''>here</a>"]
   },
   {
@@ -72,7 +72,7 @@
     "eventName": "Intellect-Apt",
     "cellName": "Higher Studies Cell",
     "tagLine": "Get, Set, Apti!",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/Intellect%20Apt.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Intellect-Apt.png",
 
     "eventHeads": [
       {
@@ -111,7 +111,7 @@
     "eventName": "Codigo 3.0",
     "cellName": "Coding Cell",
     "tagLine": "",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/Codigo%203.0.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Codigo-3.0.png",
     "eventHeads": [
       {
         "name": "Vedant Nerkar",
@@ -143,7 +143,7 @@
     "eventName": "Startup Mania",
     "cellName": "PDC & NSS",
     "tagLine": "Launchpad to showcase your innovative ideas.",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/Startup%20Mania.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Startup-Mania.png",
 
     "eventHeads": [
       {
@@ -183,7 +183,7 @@
     "eventName": "BGMI",
     "cellName": "Sports Cell",
     "tagLine": "Let's make another life in the maps of BGMI",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/bgmi.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/BGMI.png",
 
     "eventHeads": [
       {
@@ -215,7 +215,7 @@
     "eventName": "Webbit",
     "cellName": "ACM-W",
     "tagLine": "Think, Design And Develop.",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/Webbit.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Webbit.png",
 
     "eventHeads": [
       {
@@ -247,7 +247,7 @@
     "eventName": "IPL AUCTION",
     "cellName": "SY",
     "tagLine": "Bid It To Win It.",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/ipl%20auction.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/IPL-Auction.png",
 
     "eventHeads": [
       {
@@ -300,7 +300,7 @@
     "eventName": "MOVIE TRIVIA",
     "cellName": "SY",
     "tagLine": "Watched it !? Now Answer.",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/movie%20trivia.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Movie-Trivia.png",
 
     "eventHeads": [
       {
@@ -337,7 +337,7 @@
     "eventName": "Unleash the Art",
     "cellName": "Art Circle and Photography Cell",
     "tagLine": "Creativity starts here!!",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/unleash%20the%20art.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Unleash-The-Art.png",
 
     "eventHeads": [
       {
@@ -374,10 +374,10 @@
   {
     "id": 10,
     "icon": "/assets/chess.svg",
-    "eventName": "Chess",
+    "eventName": "Chess Tournamate",
     "cellName": "Sports Cell",
     "tagLine": "Better move next time",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/chess.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Chess-Tournamate.png",
 
     "eventHeads": [
       {
@@ -409,7 +409,7 @@
     "eventName": "Melting MindZ",
     "cellName": "SY",
     "tagLine": "Survival of the Smartest.",
-    "poster": "https://raw.githubusercontent.com/palakg01/anantya22/master/assets/melting%20minds.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/blob/main/anantya22-posters/Melting-Minds.png",
 
     "eventHeads": [
       {
