@@ -177,7 +177,7 @@
   },
   {
     "id": 5,
-    "icon": "/assets/startup.svg",
+    "icon": "/assets/bgmi.svg",
     "eventName": "BGMI",
     "cellName": "Sports Cell",
     "tagLine": "Let's make another life in the maps of BGMI",
