@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "icon": "/assets/talking.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/talking.svg",
     "eventName": "Talking Titans",
     "cellName": "CPDC+ISR",
     "tagLine": "Know how you can persuade!",
@@ -18,27 +18,26 @@
     ],
 
     "facultyHead": ["Prof.Shailesh Galande", "Prof. Harshada Mhaske"],
-    "description": "This event provides you with a chance to show off strong and effective communication skills and the opportunity to gain the ability to convey facts along with overcoming your stage fear.\n Round 1(Group Discussion): A topic will be provided. Every group will be given 3 minutes to discuss the given topic. Participants will be selected for the next round based on the judging criteria.\n Round 2(Debate): To teams of 2, a topic will be provided. The team will either be on the affirmative side or on the negative side. Each team will be given a time of 2 minutes for pulling their points together and 7 minutes for the Debate.",
+    "description": "This event provides you with a chance to show off strong and effective communication skills and the ability to assert dominance with facts along with overcoming your stage fear.\n Round 1(Group Discussion): In a group, a topic will be provided. Every group will be given 3 minutes to discussion on the given topic. Participants will be selected for the next round based on judging criteria.\n Round 2(Debate): In a group of 2, a topic will be provided. One participant on the affirmative side and another participant on the negative side. Each team will be given a time of 2 minutes.",
     "entryFees": {
-      "nonCesa": 90,
-      "cesa": 70
+      "nonCesa": 50,
+      "cesa": 30
     },
-    "prizes": [1500, 1000, 500],
-    "totalPrizes": 3000,
+    "prizes": [2000, 1500, 1000],
+    "totalPrizes": 4500,
     "rules": [
       "Number of rounds: 2",
-      "Time required: 4 hrs",
-      "Participants must follow the given timing, as the rounds will start on time.",
-      "Two - three teams will be clubbed to form one group for round 1, i.e., Group Discussion.",
-      "After qualifying 1st round, teams of two will participate in the 2nd round, i.e., Debate.",
+      "Time required: 1.5 hr",
+      "Participants must follow given timing, as the rounds will start sharp on time.",
+      "There will teams of 4-5 members for 1st round GD i.e. Group Discussion.",
+      "After qualifying 1st round, teams will made each consisting of 2 speakers for 2nd round Debate.",
       "There will be a time limit of 7 mins for each topic so one of the team must conclude so as to complete each round in the given time limit.",
       "Interrupting a speaker is forbidden."
-      "Speakers are expected to use appropriate language and avoid controversial topics"
     ]
   },
   {
     "id": 1,
-    "icon": "/assets/peprlexo.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/peprlexo.svg",
     "eventName": "Perplexo",
     "cellName": "Webmasters",
     "tagLine": "A Perplexical Labyrinth",
@@ -58,7 +57,7 @@
     "facultyHead": ["Prof. Ganesh Deshmukh"],
     "description": "Perplexo is an event where you get to test your knowledge in the wide domain of the Internet and Technology. It is an event  consisting of a series of questions, a trail of hints followed by a sequence of surprisingly tricky answers along with a live ranking leaderboard. We return with greater difficulty, tougher ciphers and deeper trails. You have to be more attentive, cautious and aware than at any time you are. Push your limits, bend the rules and crack the code. Last year only one was able to reach level 6, but none completed the challenge.",
     "entryFees": {
-      "nonCesa": 80,
+      "nonCesa": 90,
       "cesa": 70
     },
     "prizes": [2000, 1500, 800],
@@ -68,7 +67,7 @@
   },
   {
     "id": 2,
-    "icon": "/assets/intellect.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/intellect.svg",
     "eventName": "Intellect-Apt",
     "cellName": "Higher Studies Cell",
     "tagLine": "Get, Set, Apti!",
@@ -90,7 +89,7 @@
     ],
 
     "facultyHead": ["Prof. Priya Surana"],
-    "description": "This event will test aptitude and verbal skills. Aptitude questions will be similar to questions asked in competitive exams and placement tests. Verbal questions will be based on text completion where participants will have to choose the word that best completes the sentence.",
+    "description": "This event will test aptitude and verbal skills. Aptitude questions will be similar to questions asked in competitive exams and placement. Verbal questions will be based on text completion where participants will have to choose the word that best completes the sentence.",
     "entryFees": {
       "nonCesa": 60,
       "cesa": 50
@@ -99,14 +98,14 @@
     "totalPrizes": 2500,
     "rules": [
       "Number of rounds: 2",
-      "Time required: 2 hrs",
+      "Time required: 1 hr",
       "Solo participation.",
-      "Participants must follow given timing, as the rounds will start on time."
+      "Participants must follow given timing, as the rounds will start sharp on time."
     ]
   },
   {
     "id": 3,
-    "icon": "/assets/codigo.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/codigo.svg",
     "eventName": "Codigo 3.0",
     "cellName": "Coding Cell",
     "tagLine": "",
@@ -121,8 +120,8 @@
     "facultyHead": ["Prof. Ganesh Deskmukh"],
     "description": "This event will test your competitiveness, logic and data structure skills . It is an individual event. There will be 2 rounds. Each round will have a time limit of 2hrs. The first round will test your logical and  basic data structure skills. And the second round will test your competitive and advanced data structure skills. Each problem will have a predetermined score. A participant’s score depends on the number of test cases a participant’s code submission successfully passes. Participants are ranked by the score. If two or more participants achieve the same score, then the tie is broken by the total time taken to submit the last solution resulting in a higher score.",
     "entryFees": {
-      "nonCesa": 80,
-      "cesa": 60
+      "nonCesa": 60,
+      "cesa": 50
     },
     "prizes": [3000, 1500, 1000],
 
@@ -138,7 +137,7 @@
   },
   {
     "id": 4,
-    "icon": "/assets/startup.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
     "eventName": "Startup Mania",
     "cellName": "PDC & NSS",
     "tagLine": "Launchpad to showcase your innovative ideas.",
@@ -179,7 +178,7 @@
   },
   {
     "id": 5,
-    "icon": "/assets/startup.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
     "eventName": "BGMI",
     "cellName": "Sports Cell",
     "tagLine": "Let's make another life in the maps of BGMI",
@@ -199,19 +198,19 @@
     "facultyHead": ["Mr. Rajesh Lomte"],
     "description": "Battlegrounds Mobile India is an online multiplayer battle royale game developed and published by Krafton. The game is exclusively for Indian users.",
     "entryFees": {
-      "nonCesa": 30,
-      "cesa": 30
+      "nonCesa": 50,
+      "cesa": 40
     },
-    "prizes": [1200, 800, 50],
+    "prizes": [1500, 1000, 750],
 
-    "totalPrizes": 25000,
+    "totalPrizes": 3250,
     "rules": [
       "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
     ]
   },
   {
     "id": 6,
-    "icon": "/assets/webbit.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/webbit.svg",
     "eventName": "Webbit",
     "cellName": "ACM-W",
     "tagLine": "Think, Design And Develop.",
@@ -234,9 +233,9 @@
       "nonCesa": 80,
       "cesa": 60
     },
-    "prizes": [1500, 1000, 700],
+    "prizes": [1500, 1000],
 
-    "totalPrizes": 3200,
+    "totalPrizes": 2500,
     "rules": [
       "Participants should stick to the time limit.",
       "Minimum two web pages are required.",
@@ -249,7 +248,7 @@
   },
   {
     "id": 7,
-    "icon": "/assets/ipl.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/ipl.svg",
     "eventName": "IPL AUCTION",
     "cellName": "SY",
     "tagLine": "Bid It To Win It.",
@@ -272,9 +271,9 @@
       "nonCesa": 80,
       "cesa": 80
     },
-    "prizes": [1000, 700,500],
+    "prizes": [1000, 700],
 
-    "totalPrizes": 2200,
+    "totalPrizes": 1700,
     "rules": [
       "Detailed rules can be viewed here : <a href='./rules/IPLRules.pdf'>Rules</a>",
       "Each Team given a Budget:  90 CR",
@@ -304,7 +303,7 @@
   },
   {
     "id": 8,
-    "icon": "/assets/movie.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/movie.svg",
     "eventName": "MOVIE TRIVIA",
     "cellName": "SY",
     "tagLine": "Watched it !? Now Answer.",
@@ -329,7 +328,7 @@
     },
     "prizes": [1000, 700, 500],
 
-    "totalPrizes": 2200,
+    "totalPrizes": 3250,
     "rules": [
       "Detailed rules can be viewed here : <a href='./rules/Rules for movie trivia.docx'>Rules</a>",
       "Number of rounds - 4",
@@ -342,7 +341,7 @@
   },
   {
     "id": 9,
-    "icon": "/assets/unleash.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/unleash.svg",
     "eventName": "Unleash the Art",
     "cellName": "Art Circle and Photography Cell",
     "tagLine": "Creativity starts here!!",
@@ -366,12 +365,12 @@
     "facultyHead": ["Prof. Atul Pawar"],
     "description": "Participants can choose any of the 3 art forms i.e. dancing, singing or photography. Theme or content can be decided by the participants themselves. Video/Photo submissions are expected of 2-3 Mins(for video) and .jpg or.jpeg for Photograph. There will be a single round for each category. Winner and runner ups will be selected based on the Quality art form submitted. \u000A For photography: contestants would have to click a photograph by any device. A slight editing would be permitted for the picture. The event is to be in order to encourage students to enhance their talent and hidden creativity to click something in a special way.",
     "entryFees": {
-      "nonCesa": 50,
+      "nonCesa": 40,
       "cesa": 30
     },
     "prizes": [700, 300],
 
-    "totalPrizes": 3000,
+    "totalPrizes": 3250,
     "rules": [
       "Participants should stick to the time limit",
       "They can select only 1 of the 3 art forms for submission.",
@@ -382,7 +381,7 @@
   },
   {
     "id": 10,
-    "icon": "/assets/chess.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/chess.svg",
     "eventName": "Chess Tournamate",
     "cellName": "Sports Cell",
     "tagLine": "Better move next time",
@@ -402,10 +401,10 @@
     "facultyHead": ["Mr. Rajesh Lomte"],
     "description": "Chess is one of the oldest and most popular board games. It is played by two opponents on a checkered board with specially designed pieces of contrasting colours, commonly white and black. The objective of the game is to capture the opponent's king.",
     "entryFees": {
-      "nonCesa": 50,
+      "nonCesa": 40,
       "cesa": 30
     },
-    "prizes": [1000, 800],
+    "prizes": [1000, 600, 200],
 
     "totalPrizes": 1800,
     "rules": [
@@ -414,7 +413,7 @@
   },
   {
     "id": 11,
-    "icon": "/assets/melting.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/melting.svg",
     "eventName": "Melting MindZ",
     "cellName": "SY",
     "tagLine": "Survival of the Smartest.",
@@ -439,7 +438,7 @@
     },
     "prizes": [1000, 700, 500],
 
-    "totalPrizes": 2200,
+    "totalPrizes": 1800,
     "rules": [
       "Number of rounds - 3",
       "Time required - 2.5 hours.",
@@ -453,7 +452,7 @@
   },
   {
     "id": 12,
-    "icon": "/assets/hackathon.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/hackathon.svg",
     "eventName": "Hackathon",
     "cellName": "Secretaries",
     "tagLine": "Survival of the Smartest.",
@@ -475,7 +474,7 @@
     ],
 
     "facultyHead": ["Mrs. Sushma Vispute"],
-    "description": "Hackathon is a technical event wherein participants have to implement their innovative ideas and develop their projects within the stipulated time. The project must be based on any Computer Science relevant technologies. (eg. Web App, Android App, IoT, ML models, Networks, Security and Automation).There will be two rounds. In the first round, participants have to submit their idea with a project synopsis and have to implement their ideas in a given amount of time followed by a presentation (Review 1). After evaluation of the first round, 20 teams including 7 domain winners will be selected for the next round. Qualified teams need to implement suggestions/changes given by the reviewer at a specific time followed by the final presentation.",
+    "description": "Hackathon is a technical event wherein participants have to implement their innovative ideas and develop their projects within the stipulated time. This event is designed exclusively for BE students.The project must be based on any Computer Science relevant technologies. (eg. Web App, Android App, IoT, ML models, Networks, Security and Automation).There will be two rounds. In the first round, participants have to submit their idea with a project synopsis and have to implement their ideas in a given amount of time followed by a presentation (Review 1). After evaluation of the first round, 20 teams including 7 domain winners will be selected for the next round. Qualified teams need to implement suggestions/changes given by the reviewer at a specific time followed by the final presentation.",
     "entryFees": {
       "nonCesa": 100,
       "cesa": ""
