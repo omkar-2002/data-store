@@ -1,7 +1,7 @@
 [
   {
     "id": 0,
-    "icon": "/assets/talking.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/talking.svg",
     "eventName": "Talking Titans",
     "cellName": "CPDC+ISR",
     "tagLine": "Know how you can persuade!",
@@ -37,7 +37,7 @@
   },
   {
     "id": 1,
-    "icon": "/assets/peprlexo.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/peprlexo.svg",
     "eventName": "Perplexo",
     "cellName": "Webmasters",
     "tagLine": "A Perplexical Labyrinth",
@@ -105,7 +105,7 @@
   },
   {
     "id": 3,
-    "icon": "/assets/codigo.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/codigo.svg",
     "eventName": "Codigo 3.0",
     "cellName": "Coding Cell",
     "tagLine": "",
@@ -137,7 +137,7 @@
   },
   {
     "id": 4,
-    "icon": "/assets/startup.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
     "eventName": "Startup Mania",
     "cellName": "PDC & NSS",
     "tagLine": "Launchpad to showcase your innovative ideas.",
@@ -178,7 +178,7 @@
   },
   {
     "id": 5,
-    "icon": "/assets/startup.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
     "eventName": "BGMI",
     "cellName": "Sports Cell",
     "tagLine": "Let's make another life in the maps of BGMI",
@@ -210,7 +210,7 @@
   },
   {
     "id": 6,
-    "icon": "/assets/webbit.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/webbit.svg",
     "eventName": "Webbit",
     "cellName": "ACM-W",
     "tagLine": "Think, Design And Develop.",
@@ -248,7 +248,7 @@
   },
   {
     "id": 7,
-    "icon": "/assets/ipl.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/ipl.svg",
     "eventName": "IPL AUCTION",
     "cellName": "SY",
     "tagLine": "Bid It To Win It.",
@@ -303,7 +303,7 @@
   },
   {
     "id": 8,
-    "icon": "/assets/movie.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/movie.svg",
     "eventName": "MOVIE TRIVIA",
     "cellName": "SY",
     "tagLine": "Watched it !? Now Answer.",
@@ -341,7 +341,7 @@
   },
   {
     "id": 9,
-    "icon": "/assets/unleash.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/unleash.svg",
     "eventName": "Unleash the Art",
     "cellName": "Art Circle and Photography Cell",
     "tagLine": "Creativity starts here!!",
@@ -381,7 +381,7 @@
   },
   {
     "id": 10,
-    "icon": "/assets/chess.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/chess.svg",
     "eventName": "Chess Tournamate",
     "cellName": "Sports Cell",
     "tagLine": "Better move next time",
@@ -413,7 +413,7 @@
   },
   {
     "id": 11,
-    "icon": "/assets/melting.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/melting.svg",
     "eventName": "Melting MindZ",
     "cellName": "SY",
     "tagLine": "Survival of the Smartest.",
@@ -452,7 +452,7 @@
   },
   {
     "id": 12,
-    "icon": "/assets/hackathon.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/hackathon.svg",
     "eventName": "Hackathon",
     "cellName": "Secretaries",
     "tagLine": "Survival of the Smartest.",
