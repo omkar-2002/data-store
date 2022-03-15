@@ -67,7 +67,7 @@
   },
   {
     "id": 2,
-    "icon": "/assets/intellect.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/intellect.svg",
     "eventName": "Intellect-Apt",
     "cellName": "Higher Studies Cell",
     "tagLine": "Get, Set, Apti!",
