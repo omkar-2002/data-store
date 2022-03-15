@@ -99,7 +99,7 @@
     "rules": [
       "Number of rounds: 2",
       "Time required: 1 hr",
-      "It is recommended to bring your own laptop, but it's NOT a compulsion",
+      "Solo participation."
       "Participants must follow given timing, as the rounds will start sharp on time."
     ]
   },
@@ -217,26 +217,32 @@
 
     "eventHeads": [
       {
-        "name": "Atharv Sontakke",
-        "phoneNumber": 9009804629
+        "name": "Purnima Chandan",
+        "phoneNumber": 9763804906
       },
       {
-        "name": "Param Jangale",
-        "phoneNumber": 7744062379
+        "name": "Shrutika Ambre",
+        "phoneNumber": 7507782963
       }
     ],
 
-    "facultyHead": ["Mr. Rajesh Lomte"],
-    "description": "Battlegrounds Mobile India is an online multiplayer battle royale game developed and published by Krafton. The game is exclusively for Indian users.",
+    "facultyHead": ["Mrs. Shailaja Pede"],
+    "description": "This event is about web development. There will be two rounds. Technologies allowed are: HTML, CSS, and JavaScript. From the second round winner and runner-up will be declared based on unique and innovative designs.",
     "entryFees": {
-      "nonCesa": 50,
-      "cesa": 40
+      "nonCesa": 80,
+      "cesa": 60
     },
-    "prizes": [1500, 1000, 750],
+    "prizes": [1500, 1000],
 
-    "totalPrizes": 3250,
+    "totalPrizes": 2500,
     "rules": [
-      "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
+      "Participants should stick to the time limit."
+      "Minimum two web pages are required."
+      "Only technologies mentioned in the description can be used."
+      "In round-1 if two participants acquire a similar score, based on time taken one of the candidates will be selected for the next round."
+      "If copyright for any design from any resource is found, they will be disqualified."
+      "Participants can carry their personal laptops."
+      "Evaluation will be done based on the uniqueness of design , time taken and understandability of the code."
     ]
   },
   {
