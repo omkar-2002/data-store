@@ -236,12 +236,12 @@
 
     "totalPrizes": 2500,
     "rules": [
-      "Participants should stick to the time limit."
-      "Minimum two web pages are required."
-      "Only technologies mentioned in the description can be used."
-      "In round-1 if two participants acquire a similar score, based on time taken one of the candidates will be selected for the next round."
-      "If copyright for any design from any resource is found, they will be disqualified."
-      "Participants can carry their personal laptops."
+      "Participants should stick to the time limit.",
+      "Minimum two web pages are required.",
+      "Only technologies mentioned in the description can be used.",
+      "In round-1 if two participants acquire a similar score, based on time taken one of the candidates will be selected for the next round.",
+      "If copyright for any design from any resource is found, they will be disqualified.",
+      "Participants can carry their personal laptops.",
       "Evaluation will be done based on the uniqueness of design , time taken and understandability of the code."
     ]
   },
