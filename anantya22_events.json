@@ -99,7 +99,7 @@
     "rules": [
       "Number of rounds: 2",
       "Time required: 1 hr",
-      "It is recommended to bring your own laptop, but it's NOT a compulsion",
+      "Solo participation.",
       "Participants must follow given timing, as the rounds will start sharp on time."
     ]
   },
@@ -164,15 +164,16 @@
 
     "totalPrizes": 2500,
     "rules": [
-      "The points of evaluation are:",
-      "Social Impact",
-      "Uniqueness of the idea",
-      "Creativity in the presentation",
-      "Survey and statistical data",
-      "Real world relevance",
-      "Future estimation (team size, funding)",
-      "Knowledge ",
-      "*Template for the presentation will be provided later."
+      "Every group should have 2-4 members.",
+      "An individual can be a member of just one team.",
+      "A whatsapp group will be made with all participants in it. All the official communication will happen through this group only. ",
+      "All the participants are requested to reach the venue 10 minutes before the event commences.",
+      "A template will be provided for both the rounds. All groups are requested to use that template for their presentations.",
+      "Presentations should be completed within 3-4 minutes for round 1 and 7-8 minutes for round 2.",
+      "If the presentation goes overtime, then points will be deducted accordingly. ",
+      "All the groups are requested to carry soft copies of their PPTs. ",
+      "In case we found copyright from some resource, those teams will be disqualified.",
+      "Decision of the judges will be final."
     ]
   },
   {
@@ -217,26 +218,32 @@
 
     "eventHeads": [
       {
-        "name": "Atharv Sontakke",
-        "phoneNumber": 9009804629
+        "name": "Purnima Chandan",
+        "phoneNumber": 9763804906
       },
       {
-        "name": "Param Jangale",
-        "phoneNumber": 7744062379
+        "name": "Shrutika Ambre",
+        "phoneNumber": 7507782963
       }
     ],
 
-    "facultyHead": ["Mr. Rajesh Lomte"],
-    "description": "Battlegrounds Mobile India is an online multiplayer battle royale game developed and published by Krafton. The game is exclusively for Indian users.",
+    "facultyHead": ["Mrs. Shailaja Pede"],
+    "description": "This event is about web development. There will be two rounds.Technologies allowed are: HTML, CSS, and JavaScript. From the second round winner and runner-up will be declared based on unique and innovative designs. ",
     "entryFees": {
-      "nonCesa": 50,
-      "cesa": 40
+      "nonCesa": 80,
+      "cesa": 60
     },
-    "prizes": [1500, 1000, 750],
+    "prizes": [1500, 1000],
 
-    "totalPrizes": 3250,
+    "totalPrizes": 2500,
     "rules": [
-      "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
+      "Participants should stick to the time limit.",
+      "Minimum two web pages are required.",
+      "Only technologies mentioned in the description can be used.",
+      "In round-1 if two participants acquire a similar score, based on time taken one of the candidates will be selected for the next round.",
+      "If copyright for any design from any resource is found, they will be disqualified.",
+      "Participants can carry their personal laptops.",
+      "Evaluation will be done based on the uniqueness of design , time taken and understandability of the code."
     ]
   },
   {
@@ -268,6 +275,7 @@
 
     "totalPrizes": 1700,
     "rules": [
+      "Detailed rules can be viewed here : <a href='./rules/IPLRules.pdf'>Rules</a>",
       "Each Team given a Budget:  90 CR",
       "Time required - 4 hours.",
       "Judging criteria - Average of Rating of Players the Team owns.",
@@ -290,6 +298,7 @@
       "1 RTM free for every team",
       "Auction will be conducted for 1 extra RTM if required (Base Price 20 lakh)",
       "Auction for 1 RTS (Base Price 20 Lakh)"
+      
     ]
   },
   {
@@ -321,6 +330,7 @@
 
     "totalPrizes": 3250,
     "rules": [
+      "Detailed rules can be viewed here : <a href='./rules/Rules for movie trivia.docx'>Rules</a>",
       "Number of rounds - 4",
       "Time required - 3 hours.",
       "Round 1 - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. Top 50 ",
@@ -438,6 +448,53 @@
       "The Perfect Strategy (Round 3)- Given a real time situation; Brainstorm the best solutions to it and explain it to judges along with your team.",
       "The Team Effort (Finale)- Similar to round three but little difficult.",
       "Decisions made by judges will be final. (3 judges)"
+    ]
+  },
+  {
+    "id": 12,
+    "icon": "/assets/hackathon.svg",
+    "eventName": "Hackathon",
+    "cellName": "Secretaries",
+    "tagLine": "Survival of the Smartest.",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/Hackathon.png",
+
+    "eventHeads": [
+      {
+        "name": "Aditya Rajpurohit ",
+        "phoneNumber": 9460406311
+      },
+      {
+        "name": "Sanjana P",
+        "phoneNumber": 9075294894
+      },
+      {
+        "name": "Param Jangale",
+        "phoneNumber": 7709237974
+      }
+    ],
+
+    "facultyHead": ["Mrs. Sushma Vispute"],
+    "description": "Hackathon is a technical event wherein participants have to implement their innovative ideas and develop their projects within the stipulated time. This event is designed exclusively for BE students.The project must be based on any Computer Science relevant technologies. (eg. Web App, Android App, IoT, ML models, Networks, Security and Automation).There will be two rounds. In the first round, participants have to submit their idea with a project synopsis and have to implement their ideas in a given amount of time followed by a presentation (Review 1). After evaluation of the first round, 20 teams including 7 domain winners will be selected for the next round. Qualified teams need to implement suggestions/changes given by the reviewer at a specific time followed by the final presentation.",
+    "entryFees": {
+      "nonCesa": 100,
+      "cesa": ""
+    },
+    "prizes": [3000, 2000, 1000],
+
+    "totalPrizes": 6000,
+    "rules": [
+      "Number of rounds - 2",
+      "Timings - 9-3pm",
+      "Evaluation - 3-5pm",
+      "All participants have to be present on time.",
+      "Follow the deadlines.",
+      "Standard Synopsis format should be followed strictly.",
+      "Presentation duration is 15-20 minutes per team.",
+      "All the intermediate evaluation processes during Offline Hackathon should be followed.",
+      "All the group members should be present during the presentation.",
+      "Deactivation of all 4 members at a time(except break) may directly lead to disqualification.",
+      "The results and winners identified by judges will be final and non-negotiable under any conditions.",
+      "All participants must agree to run-time changes(if there are any)."
     ]
   }
 ]
