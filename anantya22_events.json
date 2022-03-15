@@ -179,7 +179,7 @@
   },
   {
     "id": 5,
-    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/bgmi.png",
     "eventName": "BGMI",
     "cellName": "Sports Cell",
     "tagLine": "Let's make another life in the maps of BGMI",
