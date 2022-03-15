@@ -199,8 +199,8 @@
     "facultyHead": ["Mr. Rajesh Lomte"],
     "description": "Battlegrounds Mobile India is an online multiplayer battle royale game developed and published by Krafton. The game is exclusively for Indian users.",
     "entryFees": {
-      "nonCesa": 50,
-      "cesa": 40
+      "nonCesa": 30,
+      "cesa": 30
     },
     "prizes": [1500, 1000, 750],
 
