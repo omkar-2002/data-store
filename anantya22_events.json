@@ -234,7 +234,7 @@
       "nonCesa": 80,
       "cesa": 60
     },
-    "prizes": [1500, 1000,700],
+    "prizes": [1500, 1000, 700],
 
     "totalPrizes": 3200,
     "rules": [
@@ -272,7 +272,7 @@
       "nonCesa": 80,
       "cesa": 80
     },
-    "prizes": [1000, 700,500],
+    "prizes": [1000, 700, 500],
 
     "totalPrizes": 2200,
     "rules": [
@@ -282,24 +282,11 @@
       "Judging criteria - Average of Rating of Players the Team owns.",
       "Minimum 11 and maximum 15 player",
       "Cap Rating will be x2  ,Vice captain ×1.5 ",
-      "Rules for Squad of 15:-",
-      " 3 to 7 batsmans",
-      " 1 to 3 wicket keepers",
-      " 3 to 4 all rounders",
-      " 3 to 7 bowlers",
-      " 0 to 5 foriegn players",
-      " Rules for playing 11 ",
-      " 3 to 5 batsmans",
-      " 1 to 2 wicket keepers",
-      " 1 to 3 all rounders",
-      " 3 to 5 bowlers",
-      " 0 to 4 foriegn players",
       " Min 3 members per team and maximum 5 can participate in the auction.",
       "Base price for team name bidding 50 Lakhs.",
       "1 RTM free for every team",
       "Auction will be conducted for 1 extra RTM if required (Base Price 20 lakh)",
       "Auction for 1 RTS (Base Price 20 Lakh)"
-      
     ]
   },
   {
@@ -307,7 +294,7 @@
     "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/movie.svg",
     "eventName": "MOVIE TRIVIA",
     "cellName": "SY",
-    "tagLine": "Watched it !? Now Answer.",
+    "tagLine": "BINGED IT?..GO CRACK IT !!",
     "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/movie trivia.png",
 
     "eventHeads": [
@@ -322,7 +309,8 @@
     ],
 
     "facultyHead": ["Prof. Atul Pawar"],
-    "description": "Watched a lot of movies and series? Time to put that memory to work. Solve challenging questions based on them and win a grand award.",
+    "description": "Have you seen a lot of movies and TV shows? Now is the time to put your memory to good use.Win a huge prize by answering difficult questions based on them. Take part in this fantastic quiz game based on movies and television series.",
+
     "entryFees": {
       "nonCesa": 60,
       "cesa": 60
@@ -334,10 +322,10 @@
       "Detailed rules can be viewed here : <a href='https://raw.githubusercontent.com/pccoeacm/data-store/rules/Rules for movie trivia.docx'>Rules</a>",
       "Number of rounds - 4",
       "Time required - 3 hours.",
-      "Round 1 - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. Top 50 ",
-      "Dumb charades(Round 2) - random 10 groups of 5 peoples will be formed. Guess the movie in time.",
-      "Humshakals(Round 3) - A buzzer round in which you have to identify the blended pictures of several actors and actresses.",
-      "Rapid Fire (round 4)- the winning group members will compete among themselves for rapid fire."
+      "(Round 1 - Andaaz Apna Apna) - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. ",
+      "(Round 2 - Yaaron ki Baarat ) - Random groups will be formed.Act and Guess the movie in time.",
+      "(Round 3 - Humshakals) - Identify the blended pictures of several actors and actresses.",
+      "(round 4 - Agneepath) - Finale round, Buzzer based rapid fire."
     ]
   },
   {
@@ -402,7 +390,7 @@
     "facultyHead": ["Mr. Rajesh Lomte"],
     "description": "Chess is one of the oldest and most popular board games. It is played by two opponents on a checkered board with specially designed pieces of contrasting colours, commonly white and black. The objective of the game is to capture the opponent's king.",
     "entryFees": {
-      "nonCesa": 50,
+      "nonCesa": 30,
       "cesa": 30
     },
     "prizes": [1000, 800],
@@ -524,14 +512,13 @@
       "nonCesa": 30,
       "cesa": 30
     },
-    "prizes": [1000,500],
+    "prizes": [1000, 500],
 
     "totalPrizes": 1500,
     "rules": [
       "7-Points Game ",
       "Player serves 2 serves each alternately",
       "If the game ties at 7-7, the player must win by 2 points"
-      
     ]
   }
 ]
