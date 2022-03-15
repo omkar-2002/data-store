@@ -276,7 +276,7 @@
 
     "totalPrizes": 2200,
     "rules": [
-      "Detailed rules can be viewed here : <a href='https://raw.githubusercontent.com/pccoeacm/data-store/rules/IPLRules.pdf'>Rules</a>",
+      "Detailed rules can be viewed here : <embed src="https://raw.githubusercontent.com/pccoeacm/data-store/rules/IPLRules.pdf" width="500" height="375" type="application/pdf">",
       "Each Team given a Budget:  90 CR",
       "Time required - 4 hours.",
       "Judging criteria - Average of Rating of Players the Team owns.",
