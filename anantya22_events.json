@@ -276,7 +276,7 @@
 
     "totalPrizes": 2200,
     "rules": [
-      "Detailed rules can be viewed here : <a href='./rules/IPLRules.pdf'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://raw.githubusercontent.com/pccoeacm/data-store/rules/IPLRules.pdf'>Rules</a>",
       "Each Team given a Budget:  90 CR",
       "Time required - 4 hours.",
       "Judging criteria - Average of Rating of Players the Team owns.",
@@ -308,7 +308,7 @@
     "eventName": "MOVIE TRIVIA",
     "cellName": "SY",
     "tagLine": "Watched it !? Now Answer.",
-    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/Movie-Trivia.png",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/movie trivia.png",
 
     "eventHeads": [
       {
@@ -331,7 +331,7 @@
 
     "totalPrizes": 2250,
     "rules": [
-      "Detailed rules can be viewed here : <a href='./rules/Rules for movie trivia.docx'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://raw.githubusercontent.com/pccoeacm/data-store/rules/Rules for movie trivia.docx'>Rules</a>",
       "Number of rounds - 4",
       "Time required - 3 hours.",
       "Round 1 - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. Top 50 ",
@@ -441,6 +441,7 @@
 
     "totalPrizes": 2200,
     "rules": [
+      "Detailed rules can be viewed here : <a href='https://raw.githubusercontent.com/pccoeacm/data-store/rules/MM Rulebook.pdf'>Rules</a>",
       "Number of rounds - 3",
       "Time required - 2.5 hours.",
       "Judging criteria - pre-answered question, Judges for last round.",
@@ -496,6 +497,41 @@
       "Deactivation of all 4 members at a time(except break) may directly lead to disqualification.",
       "The results and winners identified by judges will be final and non-negotiable under any conditions.",
       "All participants must agree to run-time changes(if there are any)."
+    ]
+  },
+  {
+    "id": 13,
+    "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/tt.png",
+    "eventName": "Table Tennis",
+    "cellName": "Secretaries",
+    "tagLine": "Shoot the shot.",
+    "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/Hackathon.png",
+
+    "eventHeads": [
+      {
+        "name": "Atharv Sontakke",
+        "phoneNumber": 9009804629
+      },
+      {
+        "name": "Param Jangale",
+        "phoneNumber": 7744062379
+      }
+    ],
+
+    "facultyHead": ["Prof. Rajesh Lomte"],
+    "description": "From a backspin to a topspin, drive to a smash, give it all you have to prove your mettle. use this event as an opportunity to show off your table tennis skills and competer.",
+    "entryFees": {
+      "nonCesa": 30,
+      "cesa": 30
+    },
+    "prizes": [1000,500],
+
+    "totalPrizes": 1500,
+    "rules": [
+      "7-Points Game ",
+      "Player serves 2 serves each alternately",
+      "If the game ties at 7-7, the player must win by 2 points"
+      
     ]
   }
 ]
