@@ -203,13 +203,15 @@
     "facultyHead": ["Mr. Rajesh Lomte"],
     "description": "Battlegrounds Mobile India is an online multiplayer battle royale game developed and published by Krafton. The game is exclusively for Indian users.",
     "entryFees": {
-      "nonCesa": 30,
-      "cesa": 30
+      "nonCesa": 100,
+      "cesa": 100
     },
-    "prizes": [1500, 1000, 750],
+    "prizes": [2000, 1500],
 
-    "totalPrizes": 3250,
+    "totalPrizes": 3500,
     "rules": [
+      "Squad entry only (Team size : 1-4 players)",
+      "Map is Erangel",
       "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
     ]
   },
@@ -323,7 +325,7 @@
 
     "totalPrizes": 2250,
     "rules": [
-      "Detailed rules can be viewed here : <a href='https://docs.google.com/document/d/1whuSpVi30wBtk_ilNhVZZ7Gdz6EvUwAU/edit?usp=sharing&ouid=103938748684159863271&rtpof=true&sd=true' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://drive.google.com/file/d/1VVueHz4zxXlZJkKQOeXLrHcWRI3K-qmA/view?usp=sharing' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
       "Number of rounds - 4",
       "Time required - 3 hours.",
       "(Round 1 - Andaaz Apna Apna) - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. ",
