@@ -145,7 +145,7 @@
     "icon": "https://raw.githubusercontent.com/pccoeacm/data-store/main/assets/startup.svg",
     "eventName": "Startup Mania",
     "cellName": "PDC & NSS",
-    "tagLine": "Launchpad to showcase your innovative ideas.",
+    "tagLine": "Launchpad to your ideas",
     "poster": "https://raw.githubusercontent.com/pccoeacm/data-store/main/anantya22-posters/Startup-Mania.png",
 
     "eventHeads": [
@@ -159,8 +159,8 @@
       }
     ],
 
-    "facultyHead": ["Prof. Atul Pawar"],
-    "description": "Innovation and enterprising are the wheels that steer the world into a brighter future. Startup mania will help in innovating new ideas right from acknowledging the potential of your idea, steering your idea in the correct direction, and scrutinizing your views which will pave your way for glaring success.\u000A \u000A Round1: In a group, participants have to prepare a presentation and during the presentation, every team will be given a total of 3 minutes to present their ideas. Round 2: Participants have to give a detailed idea presentation and the duration for it will be  5-7 minutes per group.",
+    "facultyHead": ["Prof. Ketan Desale"],
+    "description": "Innovation and entrepreneurship are the wheels that steer the world into a brighter future. Startup mania will help in innovating new ideas right from acknowledging the potential of your idea, steering your ideas in the right direction and scrutinizing your views which will pave the way for glaring success. In the idea presentation round, every team has to present their ideas using the template provided.The institute will provide guidance and funding to all innovative startup ideas.",
     "entryFees": {
       "nonCesa": 80,
       "cesa": 80
@@ -171,12 +171,11 @@
     "rules": [
       "Every group should have 2-4 members.",
       "An individual can be a member of just one team.",
-      "A whatsapp group will be made with all participants in it. All the official communication will happen through this group only. ",
+      "You can present your idea in any language: English, Hindi, Marathi.A whatsapp group will be made with all participants in it. All the official communication will happen through this group only.",
       "All the participants are requested to reach the venue 10 minutes before the event commences.",
-      "A template will be provided for both the rounds. All groups are requested to use that template for their presentations.",
-      "Presentations should be completed within 3-4 minutes for round 1 and 7-8 minutes for round 2.",
-      "If the presentation goes overtime, then points will be deducted accordingly. ",
-      "All the groups are requested to carry soft copies of their PPTs. ",
+      "A template will be provided for the idea presentation round through whatsapp group. All groups are requested to use that template for their presentations.Presentations should be completed within 8-10 minutes.",
+      "If the presentation goes overtime, then points will be deducted accordingly.",
+      "All the groups are requested to carry soft copies of their PPTs.",
       "In case we found copyright from some resource, those teams will be disqualified.",
       "Decision of the judges will be final."
     ]
@@ -478,18 +477,18 @@
 
     "totalPrizes": 6000,
     "rules": [
-      "Number of rounds - 2",
-      "Timings - 9-3pm",
-      "Evaluation - 3-5pm",
+      "Detailed rules can be viewed here : <a href='https://docs.google.com/document/d/1J7iSwlRn-GvYcjScBk0VeXp5FLNeoIDt/edit?usp=sharing&ouid=103938748684159863271&rtpof=true&sd=true' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
       "All participants have to be present on time.",
       "Follow the deadlines.",
       "Standard Synopsis format should be followed strictly.",
-      "Presentation duration is 15-20 minutes per team.",
       "All the intermediate evaluation processes during Offline Hackathon should be followed.",
       "All the group members should be present during the presentation.",
-      "Deactivation of all 4 members at a time(except break) may directly lead to disqualification.",
+      "Team is supposed to be present at the allotted place throughout the event.",
+      "Participants have to begin with their work on 21st March by 9AM and on 22nd March evaluation will be conducted by the mentors allotted and changes to be done will be communicated to the particular team which they will be expected to do during the event(till 3PM on 22nd March)",
+      "After 3PM, final evaluation will be conducted and participants will be judged on their project.",
+      "On 23rd March, the qualified teams will present their projects and they will be judged. The winners will be declared at the end of the event. Timing s on 23rd will be – 8AM to 10AM.",
       "The results and winners identified by judges will be final and non-negotiable under any conditions.",
-      "All participants must agree to run-time changes(if there are any)."
+      "All participants must agree to run time changes(if there any)."
     ]
   },
   {
