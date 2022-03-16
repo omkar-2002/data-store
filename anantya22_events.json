@@ -276,7 +276,7 @@
 
     "totalPrizes": 2200,
     "rules": [
-      "Detailed rules can be viewed here : <a href='https://drive.google.com/file/d/1Y_ntsB1e43_zfCeVfFdXgP74IuXJBNL0/view?usp=sharing' target='_blank' style='text-decoration-color:blue;color:blue;'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://drive.google.com/file/d/1Y_ntsB1e43_zfCeVfFdXgP74IuXJBNL0/view?usp=sharing' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
       "Each Team given a Budget:  90 CR",
       "Time required - 4 hours.",
       "Judging criteria - Average of Rating of Players the Team owns.",
@@ -319,7 +319,7 @@
 
     "totalPrizes": 2250,
     "rules": [
-      "Detailed rules can be viewed here : <a href='https://docs.google.com/document/d/1whuSpVi30wBtk_ilNhVZZ7Gdz6EvUwAU/edit?usp=sharing&ouid=103938748684159863271&rtpof=true&sd=true' target='_blank' style='text-decoration-color:blue;color:blue;'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://docs.google.com/document/d/1whuSpVi30wBtk_ilNhVZZ7Gdz6EvUwAU/edit?usp=sharing&ouid=103938748684159863271&rtpof=true&sd=true' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
       "Number of rounds - 4",
       "Time required - 3 hours.",
       "(Round 1 - Andaaz Apna Apna) - There would be a quiz containing 25 questions based on jumbled dialogues ,silest video and audio. It will be performed on kahoot online quiz platform. ",
@@ -420,7 +420,7 @@
     ],
 
     "facultyHead": ["Mr. Shailesh Galande"],
-    "description": "An event which allows you to showcase your problem solving skills,team effort and quick thinking.Round 1: In this round you will have to solve some tricky riddles to prove that you are smarter than the maximum crowd.Round 2 : In this round you will have to showcase your ability of quick thinking and solve the pictorial puzzles. Round 3 : This is the actual test of team work where you will be given a situation having some real life problems and you have to draw practical solutions for the same.Finale : So you have got the hang of it. Similar to round three but it’s difficult. Your Brains will reach the Melting Point. The Stronger Brain wins it All.",
+    "description": "An event which allows you to showcase your problem solving skills,team effort and quick thinking.Round 1: In this round you will have to solve some tricky riddles to prove that you are smarter than the maximum crowd.Round 2 : In this round you will have to showcase your ability of quick thinking and solve the pictorial puzzles. Round 3 : This is the actual test of team work where you will be given a situation having some real life problems and you have to draw practical solutions for the same.Your Brains will reach the Melting Point. The Stronger Brain wins it All.",
     "entryFees": {
       "nonCesa": 80,
       "cesa": 80
@@ -429,14 +429,13 @@
 
     "totalPrizes": 2200,
     "rules": [
-      "Detailed rules can be viewed here : <a href='https://drive.google.com/file/d/1HVDJPVj7Kr-XF5zaCh6-z0AgTPkAKyga/view?usp=sharing' target='_blank' style='text-decoration-color:blue;color:blue;'>Rules</a>",
+      "Detailed rules can be viewed here : <a href='https://drive.google.com/file/d/1HVDJPVj7Kr-XF5zaCh6-z0AgTPkAKyga/view?usp=sharing' target='_blank' style='text-decoration: underline;color:blue !important;'>Rules</a>",
       "Number of rounds - 3",
       "Time required - 2.5 hours.",
       "Judging criteria - pre-answered question, Judges for last round.",
       "Solve the Mystery (Round 1)- Try to solve the mystery.",
       "Can You C It!!! (Round 2)- Have a brief look and Decode the picture.",
       "The Perfect Strategy (Round 3)- Given a real time situation; Brainstorm the best solutions to it and explain it to judges along with your team.",
-      "The Team Effort (Finale)- Similar to round three but little difficult.",
       "Decisions made by judges will be final. (3 judges)"
     ]
   },
