@@ -64,7 +64,11 @@
     "prizes": [2000, 1500, 800],
 
     "totalPrizes": 4300,
-    "rules": [""]
+    "rules": ["Group size : 2 max",
+              "Duration : 24hrs",
+              "Groups can login and submit answers any time in the active window time",
+              "Any group found obtaining answers by unfair means will be immediatly disqualified and the decision will be final"
+             ]
   },
   {
     "id": 2,
