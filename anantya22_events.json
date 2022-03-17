@@ -393,7 +393,7 @@
     ],
 
     "facultyHead": ["Mr. Rajesh Lomte"],
-    "description": "Chess is one of the oldest and most popular board games. It is played by two opponents on a checkered board with specially designed pieces of contrasting colours, commonly white and black. The objective of the game is to capture the opponent's king.",
+    "description": "Chess is one of the oldest and most popular board games. It is played by two opponents on a checkered board with specially designed pieces of contrasting colours, commonly white and black. The objective of the game is to capture the opponent's king. It will be a knockout match",
     "entryFees": {
       "nonCesa": 30,
       "cesa": 30
@@ -402,7 +402,12 @@
 
     "totalPrizes": 1800,
     "rules": [
-      "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
+      "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later.",
+      "The game format will be 10+0 knockout match(10 mins no increment)",
+      "Touch to move as long as it's a legal move",
+      "3 illegal moves will lead to disqualification",
+      "In case of stalemate/draw, 1 min bullet game will be conducted.",
+      
     ]
   },
   {
