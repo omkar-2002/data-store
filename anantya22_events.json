@@ -525,9 +525,11 @@
 
     "totalPrizes": 1500,
     "rules": [
-      "7-Points Game ",
+      "11-Points Game ",
       "Player serves 2 serves each alternately",
-      "If the game ties at 7-7, the player must win by 2 points"
+      "Standard rules will be followed",
+      "The decision of the referee will be final.",
+      "You may bring your own rackets."
     ]
   }
 ]
