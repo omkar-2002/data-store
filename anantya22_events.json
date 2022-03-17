@@ -193,10 +193,6 @@
         "name": "Atharv Sontakke",
         "phoneNumber": 9009804629
       },
-      {
-        "name": "Param Jangale",
-        "phoneNumber": 7744062379
-      }
     ],
 
     "facultyHead": ["Mr. Rajesh Lomte"],
@@ -210,7 +206,8 @@
     "totalPrizes": 3500,
     "rules": [
       "Squad entry only (Team size : 1-4 players)",
-      "Map is Erangel",
+      "Maps- Erangel, Sanhok, Miramar",
+      "Each team will play 3 matches.",
       "Players should enter the game room within the given time or he/she will be directly disqualified and no queries will be entertained later."
     ]
   },
@@ -525,9 +522,8 @@
 
     "totalPrizes": 1500,
     "rules": [
-      "11-Points Game ",
-      "Player serves 2 serves each alternately",
-      "Standard rules will be followed",
+      "3 sets will be played, each of 11 points. The best 2 of 3 will be considered." 
+      "Standard TT rules will be followed",
       "The decision of the referee will be final.",
       "You may bring your own rackets."
     ]
