@@ -406,7 +406,7 @@
       "The game format will be 10+0 knockout match(10 mins no increment)",
       "Touch to move as long as it's a legal move",
       "3 illegal moves will lead to disqualification",
-      "In case of stalemate/draw, 1 min bullet game will be conducted.",
+      "In case of stalemate/draw, 1 min bullet game will be conducted."
       
     ]
   },
