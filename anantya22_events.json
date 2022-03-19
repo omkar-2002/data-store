@@ -469,7 +469,7 @@
     ],
 
     "facultyHead": ["Mrs. Sushma Vispute"],
-    "description": "Hackathon is a technical event wherein participants have to implement their innovative ideas and develop their projects within the stipulated time. The project must be based on any Computer Science relevant technologies. (eg. Web App, Android App, IoT, ML models, Networks, Security and Automation).There will be two rounds. In the first round, participants have to submit their idea with a project synopsis and have to implement their ideas in a given amount of time followed by a presentation (Review 1). After evaluation of the first round, 20 teams including 7 domain winners will be selected for the next round. Qualified teams need to implement suggestions/changes given by the reviewer at a specific time followed by the final presentation.",
+    "description": "Hackathon is a technical event wherein participants have to implement their innovative ideas and develop their projects within the stipulated time. The project must be based on any Computer Science relevant technologies. (eg. Web App, Android App, IoT, ML models, Networks, Security and Automation).There will be two rounds. In the first round, participants have to submit their idea with a project synopsis and have to implement their ideas in a given amount of time followed by a presentation (Review 1). After evaluation of the first round, qualified teams including domain winners will be selected for the next round. Qualified teams need to implement suggestions/changes given by the reviewer at a specific time followed by the final presentation.",
     "entryFees": {
       "nonCesa": 100,
       "cesa": ""
